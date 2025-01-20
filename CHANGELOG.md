@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-12)
+## Unreleased (2025-01-20)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`a203308`](https://github.com/stdlib-js/stdlib/commit/a2033080838f7056796d2bd6f0096e11c25c7da4) - **chore:** add missing empty lines _(by Philipp Burckhardt)_
 -   [`f3df15f`](https://github.com/stdlib-js/stdlib/commit/f3df15f118d563573f27d2d2b96e35b842f05a18) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
 -   [`3dab4d1`](https://github.com/stdlib-js/stdlib/commit/3dab4d1d097046b7665f0626af6901fa6822adeb) - **feat:** add C implementation for `stats/base/dists/discrete-uniform/cdf` [(#4643)](https://github.com/stdlib-js/stdlib/pull/4643) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
 
