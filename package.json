@@ -92,7 +92,8 @@
     "cumulative distribution",
     "distribution function",
     "discrete",
-    "uniform"
+    "uniform",
+    "univariate"
   ],
   "funding": {
     "type": "opencollective",
