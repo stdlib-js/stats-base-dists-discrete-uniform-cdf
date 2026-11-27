@@ -123,7 +123,7 @@ y = cdf( 0.0, 0, NaN );
 If provided `a > b`, the function returns `NaN`.
 
 ```javascript
-var y = cdf( 0.5, 3, 2);
+var y = cdf( 0.5, 3, 2 );
 // returns NaN
 ```
 
